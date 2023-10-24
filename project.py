@@ -13,8 +13,6 @@ studentDict = {
     'Beta': [67, 77, 82]
 }
 
-
-
 def enterGrades():
     nameToEnter = input('Student Name: ')
     gradeToEnter = input('grade: ')
