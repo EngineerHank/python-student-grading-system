@@ -49,6 +49,7 @@ def studentAvg():
         avgGrade = m(gradeList)
 
         print(eachStudent, 'has an average of: ', avgGrade)
+        
 
 def main():
     print("""
