@@ -4,7 +4,7 @@ from statistics import mean as m
 admins = {'Python': '@pass1234', 'Hank': '@hank001'}
 
 studentDict = {
-    'Kim': [45, 34, 97],
+    'Kim': [45, 34, 97], 
     'Hank': [88, 47, 87],
     'Joy': [45, 77, 37],
     'Mercy': [77, 77, 76],
