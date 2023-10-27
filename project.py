@@ -21,7 +21,7 @@ def enterGrades():
         print('adding grade ...')
         studentDict[nameToEnter].append(int(gradeToEnter))
     else:
-        print('Student does not exist')
+        print('Student does not exist') 
     print(studentDict)
 
 
