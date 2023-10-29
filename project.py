@@ -48,7 +48,7 @@ def studentAvg():
         gradeList = studentDict[eachStudent]
         avgGrade = m(gradeList)
 
-        print(eachStudent, 'has an average of: ', avgGrade)
+        print(eachStudent, 'has an average of: ', avgGrade) 
         
 
 def main():
