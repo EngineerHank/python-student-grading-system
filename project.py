@@ -10,7 +10,7 @@ studentDict = {
     'Mercy': [77, 77, 76],
     'Alpha': [34, 77, 93],
     'Main': [45, 70, 57],
-    'Beta': [67, 77, 82]
+    'Beta': [67, 77, 82] 
 }
 
 def enterGrades():
